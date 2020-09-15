@@ -1,0 +1,292 @@
+@charset "utf-8";
+
+body, h1, h2, h3, h4, img, li, ul, p {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    background-image: url("../images/background.jpg");
+    color: #ffffff;
+    margin: 0 40px;
+    text-align: center;
+}
+
+hr {
+    margin: 25px 0;
+}
+
+iframe {
+    margin-bottom: 25px;
+}
+
+p {
+    font-size: 14px;
+    text-align: left;
+}
+
+li {
+    list-style: none;
+}
+
+#arrow {
+    clear: both;
+}
+
+#arrow a img {
+    margin-top: 60px;
+    margin-bottom: 40px;
+}
+
+#arrow p {
+    text-align: center;
+}
+
+#block {
+    display: block;
+}
+
+#column1 {
+    float: left;
+    margin: 60px 20px 10px 0;
+    width: 640px;
+}
+
+#column1 h2 {
+    margin-bottom: 30px;
+    text-align: left;
+}
+
+#column2 {
+    display: inline-block;
+    margin: 60px 0 10px 0;
+    width: 360px;
+}
+
+#menu {
+    text-align: right;
+}
+
+#menu li {
+    border-left: solid #ffffff 1px;
+    border-right: solid #ffffff 1px;
+    display: inline-block;
+    list-style: none;
+    margin: 15px 5px;
+}
+
+#menu li img {
+    padding: 15px 25px 5px;
+}
+
+#tour1 {
+    border: solid 1px #851e1e;
+    margin-bottom: 50px;
+}
+
+#tour2 {
+    border: solid 1px #851e1e;
+    margin-bottom: 50px;
+}
+
+#wrap {
+    margin: 30px auto;
+    width: 1050px;
+}
+
+.about p {
+    margin-bottom: 16px;
+}
+
+.button1 {
+    background: url("../images/tour1.png");
+    display: inline-block;
+    height: 78px;
+    margin-top: 0;
+    margin-bottom: 30px;
+    width: 360px;
+}
+
+.button1:hover {
+    background: url("../images/tour2.png");
+}
+
+.button2 {
+    background: url("../images/tour11.png");
+    display: inline-block;
+    height: 78px;
+    margin-top: 0;
+    margin-bottom: 30px;
+    width: 360px;
+}
+
+.button2:hover {
+    background: url("../images/tour22.png");
+}
+
+.icon {
+    list-style: none;
+    margin: 20px 10px 25px 20px;
+    text-align: right;
+}
+
+.icon img {
+    float: right;
+    height: 38px;
+    margin-right: 15px;
+    margin-left: 15px;
+    width: 38px;
+}
+
+.iconP {
+    color: #ffffff;
+    display: inline-block;
+    font-size: 20px;
+    padding: 8px 0 0 0;
+}
+
+.iconP:hover {
+    background-color: #84ccad;
+}
+
+.live {
+    margin-top: 40px;
+    margin-bottom: 5px;
+}
+
+.live h3 {
+    font-size: 14px;
+    text-align: left;
+}
+
+.live li {
+    list-style: none;
+    margin-top: 20px;
+}
+
+.live p {
+    color: #a5a5a5;
+    font-size: 14px;
+}
+
+.memberList {
+    margin-bottom: 30px;
+}
+
+.memberList li {
+    list-style: none;
+    text-align: left;
+}
+
+.menu {
+    text-align: center;
+}
+
+.menu li {
+    border-left: solid white 1px;
+    border-right: solid white 1px;
+    display: inline-block;
+    list-style: none;
+    margin: 25px 5px;
+}
+
+.menu li img {
+    padding: 20px 35px 10px;
+}
+
+.musicS {
+    text-align: left;
+}
+
+.musicS img {
+    height: 82px;
+    width: 82px;
+}
+
+.musicS li {
+    display: inline-block;
+    list-style: none;
+}
+
+.navi {
+    color: #bebebe;
+    margin-bottom: 25px;
+}
+
+.onlyLeft {
+    text-align: left;
+}
+
+.onlyLeft img {
+    margin-top: 0;
+    margin-bottom: 40px;
+}
+
+.subLogo {
+    margin-top: 30px;
+}
+
+.topic h3  {
+    margin: 20px 0;
+}
+
+.topic img {
+    float: left;
+    height: 200px;
+    width: 200px;
+}
+
+.topicMargin p {
+    margin-left: 240px;
+    margin-bottom: 20px;
+}
+
+.topicMargin a:hover {
+    color: #e31106;
+}
+
+.topicP {
+    color: #818181;
+}
+
+.topicP h3 {
+    color: #ffffff;
+}
+
+.topicHr {
+    margin-top: 90px;
+    margin-bottom: 60px;
+}
+
+.topLogoA {
+    text-align: center;
+}
+
+.topLogoB {
+    margin-top: 40px;
+    text-align: left;
+}
+
+.inTour {
+    margin: 20px;
+}
+
+.inTour a:hover {
+    color: #851e1e;
+}
+
+.inTour h3 {
+    color: #a876af;
+    font-size: 22px;
+    margin-top: 6px;
+    text-align: left;
+}
+
+.inTour h4 {
+    font-size: 15px;
+    text-align: left;
+}
+
+.inInTour {
+    margin: 20px 0 45px 8px;
+}
